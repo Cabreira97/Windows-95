@@ -14,4 +14,4 @@ O projeto conterá os principais aplicativos do Windows 95, como, por exemplo, c
 Primeiramente esse projeto será desenvolvido apenas por mim.
 
 
-#Em andamento,
+# Em andamento.
