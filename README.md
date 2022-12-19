@@ -5,7 +5,7 @@
 Projeto sobre Windows 95 para consolidar o conteúdo aprendido ao  longo de 6 meses.
 
 # Sobre
-O projeto do Windows 95 será desenvolvido com HTML, CSS e JS, e posteriormente migrarei para React.JS
+O projeto do Windows 95 será desenvolvido com HTML, CSS e JS, e posteriormente migrarei para React.JS,
 
 # Funcionalidades do projeto
 O projeto conterá os principais aplicativos do Windows 95, como, por exemplo, calculadora, bloco de notas, drop and drop e etc..
@@ -14,3 +14,4 @@ O projeto conterá os principais aplicativos do Windows 95, como, por exemplo, c
 Primeiramente esse projeto será desenvolvido apenas por mim.
 
 
+#Em andamento,
